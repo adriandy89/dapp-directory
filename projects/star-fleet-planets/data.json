@@ -1,0 +1,27 @@
+{
+  "name": "Star Fleet Planets",
+  "description": "Star Fleet Planets, multiplayer sci-fi game, the galaxy is no longer a mystery—it is your playground and your battlefield.",
+  "websites": [
+    {
+      "url": "https://game.star-fleet.win",
+      "description": "Game Website"
+    },
+    {
+      "url": "https://marketplace.star-fleet.win",
+      "description": "Marketplace Website"
+    }
+  ],
+  "contracts": [
+    {
+      "address": "0xB40723Ab185eC9631d9713242d6933A391DFCf84",
+      "label": "Star Fleet Planets",
+      "description": "Star Fleet Planets, multiplayer sci-fi game, the galaxy is no longer a mystery—it is your playground and your battlefield."
+    }
+  ],
+  "categories": [
+    "game",
+    "nft",
+    "marketplace",
+    "social"
+  ]
+}
